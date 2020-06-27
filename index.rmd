@@ -1,0 +1,71 @@
+---
+title: "Informed Consent form for  COVID-19 Patient Rehabilitation Status Survey"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+*This Informed Consent Form is for men and women who have recovered from COVID-19, and who we are inviting to participate in research on our research project. The title of our research project is "The actual rehabilitation status of COVID-19 patients and the continuous effects of the antibodies in these patients".*
+
+**Name of Proposal and version:** 
+
+**The actual rehabilitation status of COVID-19 patients and the continuous effects of the antibodies in these patients**
+
+**This Informed Consent Form has two parts:**
+
+* Information Sheet (to share information about the research with you)
+
+* Certificate of Consent (for signatures if you agree to take part)
+
+**You will be given a copy of the full Informed Consent Form**
+
+### PART I: Information Sheet
+#### Introduction
+Dear attendant! We are a coronavirus research group of students from universities in the United States and China. In order to understand the rehabilitation of COVID-19 infection and its influencing factors, we want to provide a basis for better diagnosis and control of COVID-19 and pneumonia. In this survey, we pledge a few minutes of your precious time and hope that you can fill in your true experiences and opinions. This questionnaire is anonymous, and all data is only used for statistical analysis. We promise you privacy protection, so please fill your actual situation at ease. There is no right or wrong answer. Thank you for your cooperation and help! If you want to get feedback on the research results, you are also more than welcome to provide your contact information at the end of the questionnaire! If you have any concerns or questions about our study, please don’t hesitate to contact us at patientrehabilitation@gmail.com. Thank you!
+
+
+#### Purpose of the research
+An outbreak of novel coronavirus-related pneumonia COVID-19, which was identified in December 2019, has expanded rapidly, with cases now confirmed in more than 211 countries or areas. This constant transmission of a novel coronavirus and its ability to spread from human to human have prompted scientists to develop new approaches for the treatment of COVID-19. For we know the definition of “recovery” here mainly refers to the disappearance of the detectable virus RNA in the patients, but I don’t think the negative RT-PCR result is the only standard for stating “recovered”.  The damages caused by SARS-CoV-2 on these patients include but not limited to the physical, like compromised organ functions, and the psychological impairments. These lasting damages should be quantified and statistically analyzed to have a comprehensive understanding of the distribution of the recovered patient populations. Thus, our objectives will focus on obtaining a statistical understanding of the actual rehabilitation status of COVID-19 patients.
+
+#### Type of Research Intervention
+This research involves a survey that asks for your demographic, clinical, and physiological data.
+
+#### Participant selection
+We are inviting all persons who have recovered from COVID-19.
+ 
+#### Voluntary Participation
+Your participation in this research is entirely voluntary. It is your choice whether to participate or not. You may change your mind later and stop participating even if you agreed earlier.
+ 
+#### Confidentiality
+The information that we collect from this research project will be kept confidential. Information about you that will be collected during the research will be put away and no-one but the researchers will be able to see it. Any information about you will have a number on it instead of your name. Only the researchers will know what your number is and we will lock that information up with a lock and key. It will not be shared with or given to anyone except [name who will have access to the information, such as research sponsors, DSMB board, your clinician, etc].)
+ 
+#### Sharing the Results
+Your information will not be shared under any circumstances.
+ 
+#### Right to Refuse or Withdraw
+You do not have to take part in this research if you do not wish to do so. You may also stop participating in the research at any time you choose. It is your choice and all of your rights will still be respected.
+ 
+#### Who to Contact
+If you have any questions you may ask them now or later, even after the study has started. If you wish to ask questions later, you may contact any of the following: patientrehabilitation@gmail.com
+
+### PART II: Certificate of Consent
+**I have read the foregoing information, or it has been read to me. I have had the opportunity to ask questions about it and any questions that I have asked have been answered to my satisfaction.  I consent voluntarily to participate as a participant in this research.**
+
+Print Name of Participant _____________
+
+Signature of Participant ______________
+
+Date ______________
+<p style="text-indent: 40px">Day/month/year </p>             	
+
+**If illiterate**
+
+**I have witnessed the accurate reading of the consent form to the potential participant, and the individual has had the opportunity to ask questions. I confirm that the individual has given consent freely.**
+
+Print name of witness ______________  AND Thumb print of participant ______________
+
+Signature of witness ______________
+
+Date ______________
+<p style="text-indent: 40px">Day/month/year </p>  

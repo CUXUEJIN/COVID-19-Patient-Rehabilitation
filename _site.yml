@@ -1,0 +1,10 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "COVID-19 Patient Rehabilitation Status Survey"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<patientrehabilitation@gmail.com>
+output:
+  html_document:
+    theme: journal
