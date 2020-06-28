@@ -36,7 +36,7 @@ An outbreak of novel coronavirus-related pneumonia COVID-19, which was identifie
 This research involves a survey that asks for your demographic, clinical, and physiological data.
 
 #### Participant selection
-We are inviting all persons who have recovered from COVID-19.
+We are inviting all persons who have recovered from COVID-19 in all countries except the USA and UK.
  
 #### Voluntary Participation
 Your participation in this research is entirely voluntary. It is your choice whether to participate or not. You may change your mind later and stop participating even if you agreed earlier.
@@ -67,9 +67,27 @@ Date ______________
 
 **I have witnessed the accurate reading of the consent form to the potential participant, and the individual has had the opportunity to ask questions. I confirm that the individual has given consent freely.**
 
-Print name of witness ______________  AND Thumb print of participant ______________
+Print Name of witness ______________  AND Thumb print of participant ______________
 
 Signature of witness ______________
 
 Date ______________
 <p style="text-indent: 40px">Day/month/year </p>  
+
+**Statement by the researcher/person taking consent**
+
+**I  have accurately read out the information sheet to the potential participant, and to the best of my ability made sure that the participant understands that the following will be done:**
+**1. Finish the survey.**
+**2. Provide clinical data with consent.**
+
+**I confirm that the participant was given an opportunity to ask questions about the study, and all the questions asked by the participant have been answered correctly and to the best of my ability. I confirm that the individual has not been coerced into giving consent, and the consent has been given freely and voluntarily.**
+  
+**A copy of this ICF has been provided to the participant.**
+ 
+Print Name of Researcher/person taking the consent ______________
+
+Signature of Researcher /person taking the consent ______________
+
+Date ______________
+<p style="text-indent: 40px">Day/month/year </p> 
+
