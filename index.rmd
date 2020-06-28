@@ -77,7 +77,9 @@ Date ______________
 **Statement by the researcher/person taking consent**
 
 **I  have accurately read out the information sheet to the potential participant, and to the best of my ability made sure that the participant understands that the following will be done:**
+
 **1. Finish the survey.**
+
 **2. Provide clinical data with consent.**
 
 **I confirm that the participant was given an opportunity to ask questions about the study, and all the questions asked by the participant have been answered correctly and to the best of my ability. I confirm that the individual has not been coerced into giving consent, and the consent has been given freely and voluntarily.**
