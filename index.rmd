@@ -8,6 +8,10 @@ output:
 
 *This Informed Consent Form is for men and women who have recovered from COVID-19, and who we are inviting to participate in research on our research project. The title of our research project is "The actual rehabilitation status of COVID-19 patients and the continuous effects of the antibodies in these patients".*
 
+*This Informed Consent Form is for nationals in all countries except the USA and UK.*
+
+*Please don’t participate in the survey if you are the national of the USA and UK.*
+
 **Name of Proposal and version:** 
 
 **The actual rehabilitation status of COVID-19 patients and the continuous effects of the antibodies in these patients**
